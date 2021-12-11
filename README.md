@@ -1,9 +1,9 @@
 # usefulsites
 
-
+"""
 
 50 Awesome Websites For Web Developers
-December 11, 2021
+
 Hidden Tools –
 https://hiddentools.dev/ 1
 Music For Programming –
@@ -104,3 +104,5 @@ Templatemo –
 https://templatemo.com/ 2
 Tooplate –
 https://www.tooplate.com/ 3
+
+"""
