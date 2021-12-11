@@ -1,108 +1,102 @@
-# usefulsites
-
-"""
-
 50 Awesome Websites For Web Developers
 
-Hidden Tools –
-https://hiddentools.dev/ 1
-Music For Programming –
-https://musicforprogramming.net/
-Programming Language Convertor –
-https://ide.onelang.io/
-HTTP Cat –
-https://http.cat/ 3
-Iconscout –
-https://iconscout.com/
-CSS Zen Garden –
-http://www.csszengarden.com/ 1
-A List Apart –
-https://alistapart.com/
-Code Project –
-https://www.codeproject.com/
-Scotch –
-https://scotch.io/
-TutsPlus –
-https://tutsplus.com/
-Creative Blog –
-https://www.creativebloq.com/
-Codrops –
-Codrops | Creative front-end resources and inspiration for web professionals
-MDN Web Docs –
+Hidden Tools – </br>
+https://hiddentools.dev/ 1 </br>
+Music For Programming – </br>
+https://musicforprogramming.net/</br>
+Programming Language Convertor –</br>
+https://ide.onelang.io/</br>
+HTTP Cat –</br>
+https://http.cat/ 3</br>
+Iconscout –</br>
+https://iconscout.com/</br>
+CSS Zen Garden –</br>
+http://www.csszengarden.com/ 1</br>
+A List Apart –</br>
+https://alistapart.com/</br>
+Code Project –</br>
+https://www.codeproject.com/</br>
+Scotch –</br>
+https://scotch.io/</br>
+TutsPlus –</br>
+https://tutsplus.com/</br>
+Creative Blog –</br>
+https://www.creativebloq.com/</br>
+Codrops –</br>
+Codrops | Creative front-end resources and inspiration for web professionals</br>
+MDN Web Docs –</br>
 MDN Web Docs
-The Odin Project –
-https://www.theodinproject.com/
-Code Wars –
-https://www.codewars.com/
-WpSessions –
-https://wpsessions.com/
-CSS Autor –
-https://cssauthor.com/ 1
-Laracasts –
-https://laracasts.com/
-Web Design News –
-https://www.webdesignernews.com/
-UX Movement –
-https://uxmovement.com/
-Gradient Magic –
-https://www.gradientmagic.com/ 1
-Trianglify –
-https://trianglify.io/
-CSS Tricks –
-https://css-tricks.com/ 1
-Free Frontend –
-https://freefrontend.com/
-Code My UI –
-https://codemyui.com/
-CSS Reference –
-https://cssreference.io/
-HTML Reference –
-https://htmlreference.io/
-Frontend Mentor –
-https://www.frontendmentor.io/ 1
-Site Point –
-https://www.sitepoint.com/
-Free CSS –
-https://www.free-css.com/ 1
-Awesome Python –
-https://pythonawesome.com/
-Fun JavaScript Projects –
-https://fun-javascript-projects.com/
-Daily Dev –
-https://daily.dev/
-Dev Docs –
-https://devdocs.io/
-ShortCode Dev –
-https://shortcode.dev/
-What Runs –
-https://www.whatruns.com/
-1LOC –
-https://1loc.dev/
-Web Code Tools –
-https://webcode.tools/
-Am i Responsive –
-http://ami.responsivedesign.is/
-Shape Divider –
-https://www.shapedivider.app/
-Fancy Border Radius –
-Fancy Border Radius Generator
-CSS Gradient –
-https://cssgradient.io/
-CSS Clip Path –
-Clippy — CSS clip-path maker
-CSS Layout –
-https://csslayout.io/ 1
-30 Seconds Of Code –
-https://www.30secondsofcode.org/ 1
-Undraw –
-https://undraw.co/
-Humaaans –
-https://www.humaaans.com/ 1
-W3 Layouts –
-https://w3layouts.com/
-Templatemo –
-https://templatemo.com/ 2
-Tooplate –
-https://www.tooplate.com/ 3
-
-"""
+The Odin Project –</br>
+https://www.theodinproject.com/</br>
+Code Wars –</br>
+https://www.codewars.com/</br>
+WpSessions –</br>
+https://wpsessions.com/</br>
+CSS Autor –</br>
+https://cssauthor.com/ 1</br>
+Laracasts –</br>
+https://laracasts.com/</br>
+Web Design News –</br>
+https://www.webdesignernews.com/</br>
+UX Movement –</br>
+https://uxmovement.com/</br>
+Gradient Magic –</br>
+https://www.gradientmagic.com/ 1</br>
+Trianglify –</br>
+https://trianglify.io/</br>
+CSS Tricks –</br>
+https://css-tricks.com/ 1</br>
+Free Frontend –</br>
+https://freefrontend.com/</br>
+Code My UI –</br>
+https://codemyui.com/</br>
+CSS Reference –</br>
+https://cssreference.io/</br>
+HTML Reference –</br>
+https://htmlreference.io/</br>
+Frontend Mentor –</br>
+https://www.frontendmentor.io/ 1</br>
+Site Point –</br>
+https://www.sitepoint.com/</br>
+Free CSS –</br>
+https://www.free-css.com/ 1</br>
+Awesome Python –</br>
+https://pythonawesome.com/</br>
+Fun JavaScript Projects –</br>
+https://fun-javascript-projects.com/</br>
+Daily Dev –</br>
+https://daily.dev/</br>
+Dev Docs –</br>
+https://devdocs.io/</br>
+ShortCode Dev –</br>
+https://shortcode.dev/</br>
+What Runs –</br>
+https://www.whatruns.com/</br>
+1LOC –</br>
+https://1loc.dev/</br>
+Web Code Tools –</br>
+https://webcode.tools/</br>
+Am i Responsive –</br>
+http://ami.responsivedesign.is/</br>
+Shape Divider –</br>
+https://www.shapedivider.app/</br>
+Fancy Border Radius –</br>
+Fancy Border Radius Generator</br></br>
+CSS Gradient –</br>
+https://cssgradient.io/</br>
+CSS Clip Path –</br></br>
+Clippy — CSS clip-path maker</br>
+CSS Layout –</br>
+https://csslayout.io/ 1</br>
+30 Seconds Of Code –</br>
+https://www.30secondsofcode.org/ 1</br>
+Undraw –</br>
+https://undraw.co/</br>
+Humaaans –</br>
+https://www.humaaans.com/ 1</br>
+W3 Layouts –</br>
+https://w3layouts.com/</br>
+Templatemo –</br>
+https://templatemo.com/ 2</br>
+Tooplate –</br>
+https://www.tooplate.com/ 3</br>
